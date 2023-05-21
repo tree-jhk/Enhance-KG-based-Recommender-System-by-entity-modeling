@@ -27,10 +27,10 @@ python main_kgat.py --use_pretrain 0 --data_name setting_4 --cf_batch_size 16 --
 python main.py
 python predict.py
 ```
-# Obatin KG data
+# Obatin KG data(Relation Modeling)
 ![image](https://github.com/tree-jhk/Enhance-KG-based-Recommender-System-by-entity-modeling/assets/97151660/0e715ad5-e988-4169-8b47-b0e248b913a6)
 
 ```python
 # Move to RelationModeling folder
-run all of the relatiton_modeling.ipynb file
+run all cells of the relatiton_modeling.ipynb file
 ```
