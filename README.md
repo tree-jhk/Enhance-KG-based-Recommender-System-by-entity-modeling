@@ -23,6 +23,7 @@ python main_kgat.py --use_pretrain 0 --data_name setting_4 --cf_batch_size 16 --
 ![image](https://github.com/tree-jhk/Enhance-KG-based-Recommender-System-by-entity-modeling/assets/97151660/fb32f66b-f1fb-45d5-a730-74b4bf183369)
 
 ```python
+# Move to TextModel folder
 python main.py
 python predict.py
 ```
@@ -30,6 +31,6 @@ python predict.py
 ![image](https://github.com/tree-jhk/Enhance-KG-based-Recommender-System-by-entity-modeling/assets/97151660/0e715ad5-e988-4169-8b47-b0e248b913a6)
 
 ```python
-# go to RelationModeling folder
+# Move to RelationModeling folder
 run all of the relatiton_modeling.ipynb file
 ```
