@@ -1,5 +1,5 @@
 # Enhance-KG-based-Recommender-System-by-entity-modeling
-A PyTorch implementation of the paper "An Extended Knowledge Graph-based Recommendation System Utilizing External Knowledge Base".
+A PyTorch implementation of the paper ["An Extended Knowledge Graph-based Recommendation System Utilizing External Knowledge Base"] (https://drive.google.com/file/d/1_B_-GgX96u_6D8s_jKFD7tznhDyW4_rd/view?usp=sharing).
 
 # Run the Codes
 - Setting 1: Utilizing [MovieLens] entities
