@@ -1,0 +1,1562 @@
+title,similar_title,cosine_similarity
+pirates of the caribbean: at world's end,penguins of madagascar,0.8616675
+spectre,die another day,0.9026165
+the dark knight rises,the dark knight,0.895066
+spider-man 3,captain america: civil war,0.8547764
+avengers: age of ultron,the avengers,0.897273
+harry potter and the half-blood prince,harry potter and the order of the phoenix,0.88463426
+superman returns,superman,0.9069731
+quantum of solace,never say never again,0.868515
+pirates of the caribbean: dead man's chest,kung fu panda 3,0.85376734
+the lone ranger,the legend of the lone ranger,0.86160713
+the chronicles of narnia: prince caspian,"the chronicles of narnia: the lion, the witch and the wardrobe",0.9190117
+the amazing spider-man,spider-man 2,0.87337816
+robin hood,robin hood: prince of thieves,0.85917616
+the hobbit: the desolation of smaug,the hobbit: an unexpected journey,0.90339005
+the golden compass,elektra,0.8578706
+king kong,ghostbusters,0.85721016
+captain america: civil war,iron man 3,0.8581407
+battleship,after earth,0.8562701
+jurassic world,the good dinosaur,0.8726435
+skyfall,johnny english reborn,0.8635609
+spider-man 2,the amazing spider-man 2,0.89526963
+iron man 3,monsters university,0.8510472
+x-men: the last stand,x-men: days of future past,0.85809934
+monsters university,jupiter ascending,0.8532337
+transformers: revenge of the fallen,transformers: age of extinction,0.8805807
+transformers: age of extinction,transformers: dark of the moon,0.8817158
+oz: the great and powerful,legends of oz: dorothy's return,0.85226405
+the amazing spider-man 2,hook,0.8781983
+cars 2,cars,0.8640159
+toy story 3,toy story 2,0.87120694
+terminator salvation,independence day: resurgence,0.8513629
+furious 7,iron man,0.85186976
+x-men: days of future past,x-men: apocalypse,0.89748746
+star trek into darkness,star trek: the motion picture,0.8524812
+the great gatsby,harold & kumar go to white castle,0.8618431
+transformers: dark of the moon,transformers,0.8926066
+indiana jones and the kingdom of the crystal skull,the man from u.n.c.l.e.,0.8535675
+the good dinosaur,dinosaur,0.87351316
+wall·e,bill & ted's bogus journey,0.8526181
+rush hour 3,rush hour 2,0.8688659
+a christmas carol,elf,0.8516314
+the legend of tarzan,the jungle book 2,0.87195873
+x-men: apocalypse,dawn of the planet of the apes,0.8517723
+the dark knight,batman begins,0.8796761
+monsters vs aliens,i married a strange person!,0.8557878
+iron man,megamind,0.859281
+evan almighty,noah,0.8727747
+edge of tomorrow,xxx,0.85180837
+g.i. joe: the rise of cobra,g.i. joe: retaliation,0.88150465
+the jungle book,life of pi,0.8558142
+iron man 2,superman iii,0.86029506
+snow white and the huntsman,mirror mirror,0.88612854
+the lovers,why did i get married?,0.8501295
+captain america: the winter soldier,captain america: the first avenger,0.85906184
+shrek forever after,shrek the third,0.89483255
+the polar express,snowpiercer,0.8516308
+independence day: resurgence,stealth,0.85054135
+terminator 3: rise of the machines,terminator genisys,0.87147796
+interstellar,prometheus,0.87354815
+the hobbit: an unexpected journey,the lord of the rings: the fellowship of the ring,0.8802926
+the curious case of benjamin button,the invention of lying,0.85765165
+x-men: first class,x2,0.8988602
+the hunger games: mockingjay - part 2,the hunger games: catching fire,0.9174937
+the sorcerer's apprentice,final destination 5,0.85007596
+alice through the looking glass,the secret life of walter mitty,0.8507351
+shrek the third,shrek 2,0.9160858
+warcraft,"war, inc.",0.85150355
+terminator genisys,terminator 2: judgment day,0.8863436
+pearl harbor,high crimes,0.85290414
+transformers,transcendence,0.851844
+harry potter and the order of the phoenix,harry potter and the goblet of fire,0.9260274
+harry potter and the goblet of fire,harry potter and the prisoner of azkaban,0.9066805
+charlie and the chocolate factory,doogal,0.8510073
+batman begins,the wolf of wall street,0.85780686
+madagascar: escape 2 africa,madagascar 3: europe's most wanted,0.85072565
+night at the museum: battle of the smithsonian,night at the museum,0.88027245
+frozen,wu ji,0.8510505
+thor: the dark world,thor,0.9002841
+mad max: fury road,caravans,0.8518342
+angels & demons,the da vinci code,0.8723638
+g-force,hoodwinked!,0.85457367
+wrath of the titans,clash of the titans,0.88971084
+dark shadows,fright night,0.8580323
+mission: impossible - rogue nation,mission: impossible iii,0.8689185
+the wolfman,wolf,0.8506201
+kung fu panda 2,kung fu panda,0.89558107
+mission: impossible iii,mission: impossible ii,0.88138187
+white house down,chasing liberty,0.85138714
+mars needs moms,mission to mars,0.86176246
+mr. peabody & sherman,the shaggy dog,0.85206234
+madagascar 3: europe's most wanted,madagascar,0.86465085
+die another day,the world is not enough,0.85285497
+men in black ii,men in black,0.89277935
+kung fu panda 3,rise of the guardians,0.8616973
+rise of the guardians,tomorrow never dies,0.8648528
+fun with dick and jane,ghost,0.8505827
+the last samurai,showdown in little tokyo,0.85570407
+star trek,star trek iv: the voyage home,0.899968
+spider-man,despicable me 2,0.85343564
+gods of egypt,the score,0.86859715
+stealth,pixels,0.86765385
+watchmen,v for vendetta,0.8559276
+lethal weapon 4,lethal weapon 3,0.860586
+hulk,the incredible hulk,0.860419
+g.i. joe: retaliation,my fellow americans,0.86485463
+sahara,master and commander: the far side of the world,0.8722307
+the world is not enough,sorcerer,0.85382766
+master and commander: the far side of the world,tears of the sun,0.8559241
+the twilight saga: breaking dawn - part 2,hotel transylvania,0.8523991
+happy feet two,happy feet,0.8680318
+the hunger games: catching fire,the hunger games,0.91369617
+war of the worlds,post grad,0.86219597
+bad boys ii,bad boys,0.88905555
+puss in boots,la véritable histoire du chat botté,0.8913881
+noah,love actually,0.85068357
+harry potter and the prisoner of azkaban,harry potter and the chamber of secrets,0.9325339
+dinosaur,jurassic park,0.8627344
+night at the museum: secret of the tomb,stardust,0.8661144
+megamind,the wolverine,0.85479033
+r.i.p.d.,the interpreter,0.8600813
+pirates of the caribbean: the curse of the black pearl,the pirate,0.85586023
+the hunger games: mockingjay - part 1,insurgent,0.8600566
+x2,x-men,0.89302146
+fast five,s.w.a.t.,0.85055494
+sherlock holmes: a game of shadows,sherlock holmes,0.8726104
+total recall,should've been romeo,0.8555058
+the bourne legacy,jason bourne,0.908934
+the day after tomorrow,the day the earth stood still,0.87160033
+mission: impossible ii,mission: impossible,0.8709556
+the perfect storm,triangle,0.86594117
+ghost rider,ghost rider: spirit of vengeance,0.85914177
+jason bourne,the spanish prisoner,0.88846356
+charlie's angels: full throttle,the hours,0.8524536
+prometheus,the chronicles of riddick,0.8618002
+stuart little 2,stuart little,0.8955624
+speed racer,need for speed,0.90456903
+how do you know,ice age: dawn of the dinosaurs,0.8522588
+knight and day,the holiday,0.8558629
+star wars: episode iii - revenge of the sith,star wars: episode ii - attack of the clones,0.89478195
+star wars: episode ii - attack of the clones,the empire strikes back,0.8511679
+"monsters, inc.",road to perdition,0.8595026
+star wars: episode i - the phantom menace,mary reilly,0.85001767
+the croods,the descent,0.8699822
+teenage mutant ninja turtles,teenage mutant ninja turtles: out of the shadows,0.8668113
+teenage mutant ninja turtles: out of the shadows,tmnt,0.86543083
+fantastic four,divergent,0.85381955
+san andreas,black hawk down,0.85029423
+ocean's twelve,ocean's eleven,0.85580665
+mr. & mrs. smith,the dead zone,0.868626
+insurgent,allegiant,0.8880143
+the aviator,the hoax,0.87059164
+gulliver's travels,left behind,0.863206
+300: rise of an empire,300,0.8792262
+the smurfs,the smurfs 2,0.8783375
+the smurfs 2,les visiteurs 2 : les couloirs du temps,0.8514974
+live free or die hard,face/off,0.8566755
+ali,rocky,0.8514603
+the cat in the hat,don gato: el inicio de la pandilla,0.8571657
+"i, robot",a.i. artificial intelligence,0.85263664
+kingdom of heaven,braveheart,0.85338557
+stuart little,minions,0.85236216
+the princess and the frog,accidental love,0.85060346
+the martian,spaced invaders,0.8572041
+town & country,payback,0.87436205
+harry potter and the chamber of secrets,the league of extraordinary gentlemen,0.8513904
+planet of the apes,the peanuts movie,0.85697293
+terminator 2: judgment day,the terminator,0.90142775
+public enemies,inside man,0.8604542
+american gangster,traffic,0.85536456
+the taking of pelham 1 2 3,money train,0.8898212
+little fockers,meet the fockers,0.8695925
+the other guys,pride and glory,0.85611546
+django unchained,ben-hur,0.85811484
+the hunchback of notre dame,the scorpion king,0.853504
+epic,cinderella,0.85168576
+cloud atlas,the shadow,0.85138583
+catwoman,show me,0.8650391
+hercules,the legend of hercules,0.88339674
+land of the lost,superhero movie,0.85039204
+point break,entrapment,0.85094035
+in the heart of the sea,moby dick,0.8879718
+green zone,three kings,0.8616631
+the peanuts movie,red,0.87844807
+gangs of new york,a most violent year,0.863584
+金陵十三釵,lucy,0.8509517
+surf's up,fast times at ridgemont high,0.8616827
+the stepford wives,gone girl,0.8681572
+the campaign,the lincoln lawyer,0.8515094
+the fifth element,race to witch mountain,0.91229707
+sex and the city 2,must love dogs,0.86332434
+cinderella,the spiderwick chronicles,0.8572339
+the lovely bones,beloved,0.85250527
+the lord of the rings: the return of the king,the lord of the rings: the two towers,0.90433884
+lara croft: tomb raider,lara croft tomb raider: the cradle of life,0.8688397
+transcendence,the time machine,0.8638312
+a good day to die hard,die hard: with a vengeance,0.8769154
+the incredibles,the phantom,0.85768265
+percy jackson & the olympians: the lightning thief,percy jackson: sea of monsters,0.8799001
+men in black,mars attacks!,0.85273564
+toy story 2,toy story,0.8953314
+unstoppable,unbreakable,0.8516256
+rush hour 2,the replacement killers,0.85761905
+what lies beneath,in dreams,0.8565581
+cloudy with a chance of meatballs,cloudy with a chance of meatballs 2,0.8735156
+ice age: dawn of the dinosaurs,over the hedge,0.86266357
+the departed,hostage,0.86356753
+mulan,shanghai noon,0.85479957
+the girl with the dragon tattoo,the hunting party,0.8536959
+die hard: with a vengeance,die hard 2,0.8575982
+atlantis: the lost empire,k-19: the widowmaker,0.8639093
+pixels,creepshow,0.8700022
+a.i. artificial intelligence,bicentennial man,0.85232824
+the haunted mansion,american wedding,0.8567255
+the interpreter,safe house,0.87264264
+percy jackson: sea of monsters,hellboy ii: the golden army,0.8505509
+now you see me 2,agent cody banks 2: destination london,0.8500847
+the saint,the bodyguard,0.8534051
+mission to mars,red planet,0.9080343
+bicentennial man,nothing,0.8558627
+the devil's own,angela's ashes,0.8525285
+k-19: the widowmaker,the abyss,0.85337615
+cinderella man,the hurricane,0.86012477
+the nutcracker: the untold story,winter's tale,0.8569846
+seabiscuit,the last castle,0.85188854
+happy feet,la marche de l'empereur,0.85698617
+ocean's eleven,ocean's thirteen,0.8811401
+the three musketeers,the musketeer,0.87874436
+hotel transylvania,hotel transylvania 2,0.8803207
+safe house,get smart,0.8508272
+tower heist,taken,0.8504821
+the holiday,nutty professor ii: the klumps,0.8711918
+it's complicated,remember me,0.8563187
+open season,the frozen,0.86725664
+last action hero,cats don't dance,0.8578964
+collateral damage,the siege,0.8513841
+all that jazz,bowfinger,0.8512138
+mirror mirror,the princess diaries,0.8603871
+nutty professor ii: the klumps,what women want,0.8539389
+click,funny people,0.8598936
+hellboy ii: the golden army,little nicky,0.8687337
+the 6th day,conspiracy theory,0.87062067
+over the hedge,furry vengeance,0.8646915
+charlotte's web,knocked up,0.8554018
+deep impact,meteor,0.86314255
+red 2,thirteen days,0.85562766
+grown ups 2,the faculty,0.85983175
+something's gotta give,stepmom,0.85049856
+robots,autómata,0.8631686
+road to perdition,frequency,0.89652956
+con air,the happening,0.8573077
+eagle eye,the spy next door,0.85899246
+the day the earth stood still,time to choose,0.85382503
+spirit: stallion of the cimarron,dreamer: inspired by a true story,0.8558062
+lost in space,escape from the planet of the apes,0.8544772
+hotel transylvania 2,dracula untold,0.85373145
+fantasia 2000,august rush,0.8522689
+the time machine,timeline,0.85877424
+swordfish,contraband,0.85053337
+the legend of zorro,the mask of zorro,0.8772045
+mars attacks!,battle: los angeles,0.8653462
+évolution,gattaca,0.8515016
+surrogates,sucker punch,0.8604468
+thirteen days,crimson tide,0.85492605
+nine,vanilla sky,0.8533366
+timeline,bogus,0.8555467
+the postman,final destination 2,0.85982174
+babe: pig in the city,in the name of the king: a dungeon siege tale,0.8560592
+red planet,martian child,0.8612842
+oceans,children of men,0.85095215
+a sound of thunder,the village,0.8841557
+the lion king,my all american,0.8506421
+journey 2: the mysterious island,joy,0.8826298
+red dragon,hannibal rising,0.8736228
+jack and jill,the family man,0.85602266
+2 fast 2 furious,parker,0.8500181
+the adventures of rocky & bullwinkle,my best friend's girl,0.8525162
+children of men,dolphin tale 2,0.861177
+x-men,the hills have eyes ii,0.86308426
+wanted,dick tracy,0.8500556
+ice age: the meltdown,ice age,0.877272
+50 first dates,over her dead body,0.85811746
+hairspray,music and lyrics,0.86267835
+now you see me,the last shot,0.8769891
+grown ups,we are marshall,0.858744
+shark tale,into the blue,0.86882323
+be cool,man on the moon,0.86019474
+the man from u.n.c.l.e.,the sum of all fears,0.87399757
+first knight,quest for camelot,0.8795141
+immortals,"i, frankenstein",0.8547653
+hostage,ransom,0.8504227
+titan a.e.,the final destination,0.8506093
+minions,jay and silent bob strike back,0.8544166
+snake eyes,the black dahlia,0.85814553
+fool's gold,salton sea,0.85370743
+funny people,he's just not that into you,0.8507238
+dr. dolittle 2,doctor dolittle,0.8646809
+signs,a better life,0.88601893
+shrek 2,shrek,0.8591231
+runaway bride,neal 'n' nikki,0.85415417
+the spongebob movie: sponge out of water,the spongebob squarepants movie,0.8863507
+inglourious basterds,the statement,0.8514935
+hook,finding neverland,0.90595
+die hard 2,die hard,0.8903162
+s.w.a.t.,the glimmer man,0.854368
+vanilla sky,zack and miri make a porno,0.86000836
+avp: alien vs. predator,the thing,0.86586225
+alvin and the chipmunks: the squeakquel,alvin and the chipmunks,0.8581815
+we were soldiers,flyboys,0.8730278
+olympus has fallen,the art of war,0.8559494
+star trek: insurrection,star trek: first contact,0.85280985
+battle: los angeles,antz,0.8507922
+big fish,the brothers bloom,0.8824266
+wolf,abraham lincoln: vampire hunter,0.86226475
+the abyss,das boot,0.86293286
+wall street: money never sleeps,inside job,0.8652949
+the siege,bad company,0.8614125
+stardust,the adjustment bureau,0.8567394
+seven years in tibet,everest,0.8536722
+the dilemma,the ugly truth,0.85291815
+bad company,this means war,0.8706779
+underworld: awakening,blade ii,0.8524104
+rollerball,roll bounce,0.8559608
+osmosis jones,contagion,0.8818461
+legends of oz: dorothy's return,the wizard of oz,0.8970677
+basic instinct 2,under the skin,0.8502088
+the sum of all fears,jack ryan: shadow recruit,0.85200286
+the twilight saga: eclipse,the twilight saga: new moon,0.9105432
+despicable me,moon,0.87794584
+ted 2,guess who,0.85686505
+hall pass,"you, me and dupree",0.8675122
+dinner for schmucks,about time,0.8677938
+abraham lincoln: vampire hunter,the hateful eight,0.8529018
+entrapment,sin city: a dame to kill for,0.8620392
+the x files,american hustle,0.8542858
+the last legion,risen,0.8531868
+need for speed,days of thunder,0.85002613
+ice age,the man in the iron mask,0.8501212
+apollo 13,apollo 18,0.85395306
+the santa clause 2,the santa clause,0.86874163
+les misérables,chéri,0.8569683
+unbroken,without limits,0.8553056
+space cowboys,zathura: a space adventure,0.8551912
+cliffhanger,127 hours,0.85693073
+the dictator,london has fallen,0.8684355
+annie,trust,0.88934505
+this means war,duplicity,0.86627984
+primary colors,cleopatra,0.85758096
+resident evil: retribution,resident evil: afterlife,0.91068393
+death race,escape from new york,0.8656543
+the long kiss goodnight,because i said so,0.85129535
+proof of life,aloha,0.8545949
+zathura: a space adventure,astro boy,0.86566997
+we are marshall,leatherheads,0.85684156
+oliver twist,oliver!,0.9259897
+random hearts,a guy named joe,0.85228837
+austin powers in goldmember,austin powers: the spy who shagged me,0.90336
+wyatt earp,tombstone,0.912098
+clear and present danger,2 guns,0.8522855
+blades of glory,chariots of fire,0.86480427
+meet the fockers,meet the parents,0.9221889
+wild hogs,the signal,0.85287637
+gone girl,inkheart,0.8548044
+goldeneye,for your eyes only,0.8642759
+the truman show,morning glory,0.85050005
+couples retreat,why did i get married too?,0.8634145
+the family man,a thousand words,0.8623115
+the scorpion king,sphinx,0.8765469
+michael jackson's this is it,get on up,0.8569354
+contagion,outbreak,0.9166787
+the happening,a nightmare on elm street,0.85396445
+a civil action,madea's witness protection,0.85849386
+under siege 2: dark territory,the peacemaker,0.8535228
+jack ryan: shadow recruit,patriot games,0.9001843
+joy,the soloist,0.8586805
+london has fallen,shooter,0.8623244
+alien: resurrection,the talented mr. ripley,0.8625896
+shooter,righteous kill,0.86934656
+the boxtrolls,c.h.u.d.,0.85917103
+the lego movie,small soldiers,0.8721706
+miss congeniality 2: armed and fabulous,miss congeniality,0.9271969
+reign of fire,dragonheart,0.87961996
+gangster squad,run all night,0.8559393
+year one,mean streets,0.8513974
+invictus,mandela: long walk to freedom,0.89792556
+duplicity,disclosure,0.8789515
+the sentinel,mercury rising,0.86257607
+star trek: nemesis,serenity,0.8529976
+intolerable cruelty,yes man,0.85851955
+analyze that,sleepers,0.8517157
+righteous kill,did you hear about the morgans?,0.85743624
+the legend of bagger vance,tin cup,0.86538005
+almost famous,shorts,0.85119563
+garfield: a tail of two kitties,garfield,0.91217285
+dragonfly,the judge,0.85101295
+the black dahlia,street fighter: the legend of chun-li,0.85092574
+flyboys,red tails,0.8720855
+winter's tale,elizabeth: the golden age,0.85056806
+meet dave,pandorum,0.864509
+inkheart,imagine that,0.8552794
+the spirit,assault on precinct 13,0.8535318
+mortdecai,trance,0.85310686
+in the name of the king: a dungeon siege tale,a million ways to die in the west,0.87599254
+the great raid,american ninja 2: the confrontation,0.8564962
+goosebumps,don't say a word,0.8511117
+just like heaven,housebound,0.85026026
+the flintstones in viva rock vegas,the flintstones,0.8626231
+rambo iii,rambo: first blood part ii,0.8705244
+leatherheads,jerry maguire,0.87032676
+the ridiculous 6,memoirs of an invisible man,0.8501108
+did you hear about the morgans?,bullet to the head,0.8731015
+resident evil: afterlife,city of angels,0.8519533
+that's my boy,domestic disturbance,0.8500638
+the pacifier,act of valor,0.8507992
+forrest gump,finding forrester,0.85460585
+alvin and the chipmunks,mutual appreciation,0.8504804
+superman,superman ii,0.85393536
+date night,closer,0.8502546
+city of angels,universal soldier: the return,0.8507067
+kill bill: vol. 1,kill bill: vol. 2,0.94698966
+death becomes her,sea of love,0.851714
+shanghai noon,shanghai knights,0.8664232
+executive decision,rendition,0.85151654
+the forbidden kingdom,功夫,0.85690635
+free birds,american pie 2,0.8603253
+ronin,the wind that shakes the barley,0.8534007
+the ghost and the darkness,american outlaws,0.852282
+the watch,the crazies,0.86584663
+the hunted,trolljegeren,0.85121715
+changeling,the pledge,0.8531601
+chain reaction,deck the halls,0.85348505
+elizabeth: the golden age,joan of arc,0.8520219
+æon flux,resident evil,0.86148417
+gods and generals,stonewall,0.8779312
+turbulence,airplane!,0.8527978
+imagine that,central intelligence,0.85086966
+muppets most wanted,the muppet movie,0.8752005
+thunderbirds,the specials,0.8551363
+lolita,all the real girls,0.85347027
+blade ii,blade,0.9106496
+the godfather: part iii,city by the sea,0.850249
+"you, me and dupree",secret window,0.86370426
+all the king's men,the ides of march,0.86696297
+moulin rouge!,the artist,0.85416365
+domestic disturbance,law abiding citizen,0.8524233
+flags of our fathers,the best years of our lives,0.85022295
+lucky you,casino,0.8563164
+zero dark thirty,13 hours: the secret soldiers of benghazi,0.85734755
+the break-up,my best friend's wedding,0.8526561
+mamma mia!,josie and the pussycats,0.85054564
+the change-up,little children,0.8527758
+casino,interview with the vampire,0.87440217
+from paris with love,shade,0.85228956
+bulletproof monk,兔侠传奇,0.8587066
+barnyard,all hat,0.8545473
+deck the halls,christmas with the kranks,0.8617466
+the adjustment bureau,the ring two,0.851167
+robin hood: prince of thieves,robin and marian,0.8808489
+jerry maguire,kicking & screaming,0.85895956
+ted,big daddy,0.8577707
+as good as it gets,the big hit,0.852067
+22 jump street,21 jump street,0.87202835
+stepmom,the deep end of the ocean,0.85108626
+into the woods,happily n'ever after,0.85332525
+payback,de-lovely,0.85154486
+knowing,won't back down,0.8746111
+moneyball,for love of the game,0.85341024
+outbreak,quarantine,0.8733592
+race to witch mountain,stolen,0.8716465
+herbie fully loaded,rush,0.8528182
+don't say a word,last holiday,0.8778188
+hansel & gretel: witch hunters,das weisse band,0.85092765
+syriana,black november,0.87944573
+13 hours: the secret soldiers of benghazi,argo,0.8683653
+absolute power,the town,0.85612106
+g.i. jane,le hussard sur le toit,0.85407364
+the game,home alone 2: lost in new york,0.8566903
+the negotiator,la chambre bleue,0.8621686
+beverly hills cop iii,out of sight,0.85979253
+the judge,blood work,0.85701793
+bridget jones: the edge of reason,bridget jones's diary,0.85266733
+the adventures of sharkboy and lavagirl,heartbreakers,0.8827962
+raising helen,wanderlust,0.85258925
+for love of the game,a league of their own,0.8578763
+marmaduke,heartbeeps,0.852923
+hereafter,scream 3,0.8563527
+murder by numbers,a time to kill,0.8504777
+hannibal rising,the silence of the lambs,0.8525334
+the story of us,america's sweethearts,0.86306494
+blood work,the life of david gale,0.85103023
+the international,holy motors,0.85399234
+the life of david gale,mad city,0.85527015
+man of the house,lone wolf mcquade,0.8937061
+run all night,kiss of death,0.86006737
+eastern promises,child 44,0.8583537
+into the blue,deep rising,0.8569091
+your highness,journey to the center of the earth,0.8510705
+mad city,domino,0.85273683
+the big bounce,the thomas crown affair,0.87310606
+street fighter: the legend of chun-li,delgo,0.85124266
+the one,jfk,0.8544672
+the adventures of ford fairlane,say it isn't so,0.8569559
+traffic,scarface,0.89018255
+indiana jones and the last crusade,spawn,0.86057353
+chappie,the adventures of pinocchio,0.8542555
+child 44,reds,0.8593342
+k-pax,it's kind of a funny story,0.8602148
+taken 3,taken 2,0.8993108
+1947: earth,ராமானுஜன்,0.85035807
+the thomas crown affair,identity thief,0.8639134
+first blood,flight of the intruder,0.86220115
+insomnia,the cell,0.8502259
+star trek: first contact,star trek: generations,0.8584626
+the infiltrator,midnight in the garden of good and evil,0.851624
+taken 2,the betrayed,0.8540865
+journey to the center of the earth,abduction,0.8573023
+prisoners,16 blocks,0.85279167
+training day,get rich or die tryin',0.8713388
+blade,underworld: evolution,0.85650575
+anaconda,predators,0.85795385
+love actually,blended,0.8799578
+"yours, mine and ours",hearts in atlantis,0.8547456
+kicking & screaming,ri¢hie ri¢h,0.86365044
+the hitchhiker's guide to the galaxy,seeking a friend for the end of the world,0.85064137
+fat albert,what's eating gilbert grape,0.8598718
+last holiday,double jeopardy,0.85581
+the river wild,extreme ops,0.86178595
+the indian in the cupboard,長江七號,0.8604051
+savages,ride along 2,0.8654194
+cellular,switchback,0.8502762
+johnny english,cypher,0.8531769
+revolutionary road,the out-of-towners,0.8625271
+the glimmer man,the sixth sense,0.85507905
+the phantom,sky high,0.85136515
+all the pretty horses,down in the valley,0.8500536
+miracle at st. anna,10th & wolf,0.85251135
+滿城盡帶黃金甲,刺客聶隱娘,0.8795485
+shadow conspiracy,the mechanic,0.8520298
+rambo: first blood part ii,red sky,0.8541085
+the juror,civil brand,0.855759
+underworld: evolution,dracula,0.8647996
+victor frankenstein,brüno,0.8669338
+finding forrester,alone in the dark,0.8503696
+28 days,"bright lights, big city",0.8511892
+the sweetest thing,mommie dearest,0.87454283
+21 jump street,dazed and confused,0.8510223
+the heat,white chicks,0.85518646
+here comes the boom,一個人的武林,0.8837843
+the mirror has two faces,the big swap,0.8565203
+the mothman prophecies,blindness,0.85451055
+licence to kill,a walk among the tombstones,0.85390884
+super mario bros.,gojira ni-sen mireniamu,0.85292286
+英雄,perrier’s bounty,0.8611272
+one for the money,unforgiven,0.8700369
+man on a ledge,cradle 2 the grave,0.8564448
+back to the future part ii,back to the future part iii,0.91140014
+a league of their own,the bad news bears,0.85586643
+the conjuring 2,hanging up,0.86043954
+the social network,rise of the entrepreneur: the search for a better way,0.85298926
+he's just not that into you,shallow hal,0.85412735
+scream 3,scream 2,0.86971444
+back to the future part iii,in time,0.8616064
+the talented mr. ripley,ripley's game,0.87677974
+dumb and dumber to,godsend,0.86117166
+the intern,there's something about mary,0.8546007
+big momma's house 2,big momma's house,0.9042364
+the mexican,the net,0.85035616
+the final destination,unknown,0.8501954
+spawn,the omen,0.8507308
+the lincoln lawyer,the guilt trip,0.8607645
+horrible bosses 2,葉問3,0.8524304
+escape from planet earth,trekkies,0.86077225
+apocalypto,an unfinished life,0.85022414
+the living daylights,octopussy,0.8987895
+secret window,the lake house,0.87300426
+made of honor,the five-year engagement,0.8808237
+aliens vs predator: requiem,monsters,0.8513676
+ri¢hie ri¢h,the game plan,0.8500392
+autumn in new york,are we there yet?,0.85224855
+the guilt trip,the hudsucker proxy,0.87194103
+8mm,street kings,0.8503356
+the doors,walk hard: the dewey cox story,0.8792589
+hanging up,mickey blue eyes,0.85174096
+get rich or die tryin',we're the millers,0.8657556
+bless the child,agent cody banks,0.85129935
+the island of dr. moreau,antwone fisher,0.8771847
+the reaping,the witch,0.8589911
+mean streets,at first sight,0.8511794
+colombiana,max payne,0.85439146
+city by the sea,torque,0.8578265
+at first sight,duplex,0.8516564
+torque,wayne's world,0.8591879
+showgirls,step up revolution,0.860187
+marie antoinette,midnight in paris,0.8577673
+ishtar,bobby,0.85013103
+fantastic mr. fox,the cottage,0.8585655
+the deep end of the ocean,the young victoria,0.8510587
+duplex,trainwreck,0.8654212
+raise the titanic,private benjamin,0.85139704
+impostor,antitrust,0.85844386
+just visiting,les visiteurs,0.8730937
+the gunman,doc holliday's revenge,0.85172325
+the hunting party,lion of the desert,0.85413253
+the hudsucker proxy,malcolm x,0.85392004
+the crow,green room,0.85635936
+the time traveler's wife,atonement,0.8604517
+frankenweenie,raising victor vargas,0.8767416
+superman iii,superman iv: the quest for peace,0.86762923
+grudge match,playing for keeps,0.86896324
+the ugly truth,water for elephants,0.85093796
+spy kids 2: the island of lost dreams,spy kids,0.8980936
+paul blart: mall cop 2,echo dr.,0.8547369
+precious,the wiz,0.8584107
+white squall,les choristes,0.85052025
+riddick,pitch black,0.89350736
+texas rangers,the bad lieutenant: port of call - new orleans,0.85820293
+the master,legion,0.850722
+the 5th wave,safe,0.8504971
+burn after reading,dirty work,0.8557855
+rush,solitary man,0.86186886
+dolphin tale,stand by me,0.8522041
+twilight,pitch perfect 2,0.88105273
+we're the millers,pineapple express,0.8639687
+hot tub time machine,national lampoon's vacation,0.85651815
+the rite,deliver us from evil,0.854025
+gattaca,the number 23,0.85273194
+head of state,this is the end,0.85130733
+batman,"batman: the dark knight returns, part 2",0.8877215
+lethal weapon 3,a few good men,0.8568967
+the devil wears prada,how to lose friends & alienate people,0.8572347
+star trek: the motion picture,star trek v: the final frontier,0.87990665
+guess who,in & out,0.8595111
+l.a. confidential,seven psychopaths,0.8547829
+a nightmare on elm street,keeping the faith,0.8581929
+tmnt,teenage mutant ninja turtles ii: the secret of the ooze,0.9058762
+radio,radio days,0.86985844
+friends with benefits,the wedding date,0.853756
+neighbors 2: sorority rising,old school,0.85734606
+saving mr. banks,mary poppins,0.8668922
+malcolm x,mirrors,0.85076475
+old dogs,trust the man,0.8529828
+underworld: rise of the lycans,bloodrayne,0.86206913
+resident evil,land of the dead,0.8524559
+max payne,hot pursuit,0.8585199
+black knight,lawrence of arabia,0.8524556
+street fighter,flash gordon,0.8546426
+the pianist,shine,0.8669861
+house of wax,chronicle,0.8509672
+queen of the damned,ultraviolet,0.8561058
+blast from the past,freaky deaky,0.8633205
+heist,runner runner,0.8506516
+nanny mcphee and the big bang,nanny mcphee,0.8854252
+abduction,the shipping news,0.8556552
+superhero movie,kick-ass,0.88288224
+cursed,underworld,0.8734874
+hot pursuit,femme fatale,0.853135
+wimbledon,match point,0.8527262
+furry vengeance,kingdom of the spiders,0.8572873
+bait,the reef,0.869502
+flight of the intruder,apocalypse now,0.8574924
+american outlaws,the assassination of jesse james by the coward robert ford,0.8819456
+the tree of life,slacker,0.8575403
+the order,the boondock saints ii: all saints day,0.85221905
+the walk,man on wire,0.8844421
+le hussard sur le toit,the longest ride,0.8623576
+bandidas,the sting,0.8763746
+chill factor,buried,0.85199416
+stolen,the prince,0.8803346
+the longest ride,a history of violence,0.87937033
+the astronaut's wife,my stepmother is an alien,0.8511636
+playing for keeps,down to earth,0.8522974
+mandela: long walk to freedom,goodbye bafana,0.8895417
+reds,barney's version,0.85615766
+a few good men,the devil's tomb,0.8500912
+big momma's house,"big mommas: like father, like son",0.88798946
+the darkest hour,independence daysaster,0.8690489
+step up revolution,desert dancer,0.8574013
+snakes on a plane,united 93,0.85257864
+the punisher,sicario,0.8557615
+wanderlust,laws of attraction,0.8737339
+snow dogs,saw,0.8540146
+scrooged,the muppet christmas carol,0.8553657
+"big mommas: like father, like son",mindhunters,0.86259186
+alive,eden,0.85926116
+the quick and the dead,bride wars,0.85001636
+repo men,repo! the genetic opera,0.85539955
+the incredible burt wonderstone,wild card,0.8547596
+cats don't dance,top five,0.851375
+george and the dragon,son of god,0.8531776
+going the distance,a lot like love,0.86867625
+out of africa,open road,0.8510352
+arachnophobia,eight legged freaks,0.87719864
+frequency,the butterfly effect,0.85129356
+vacation,mr. bean's holiday,0.8541402
+chicago,original sin,0.85051155
+big daddy,mystic river,0.8611603
+american pie 2,jimmy neutron: boy genius,0.8558443
+ace ventura: when nature calls,もののけ姫,0.88943315
+the princess diaries,what a girl wants,0.8575427
+the first wives club,just my luck,0.86793584
+mystic river,the prince of tides,0.8557354
+million dollar baby,the fighter,0.85067815
+analyze this,the whole nine yards,0.85027486
+the notebook,little boy,0.85064197
+the prince of tides,warm bodies,0.86476827
+legends of the fall,bad moms,0.85233295
+warm bodies,hope springs,0.8637245
+down to earth,larry crowne,0.9001115
+hope springs,p.s. i love you,0.8656587
+four brothers,the three stooges,0.86934304
+baby mama,one true thing,0.88163745
+bride wars,the imaginarium of doctor parnassus,0.88423586
+message in a bottle,les petits mouchoirs,0.85668814
+star trek v: the final frontier,キャプテンハーロック,0.85807943
+like mike,driving lessons,0.8520254
+the naked gun 33⅓: the final insult,everybody's fine,0.8594209
+p.s. i love you,side effects,0.8514971
+racing stripes,khumba,0.8506619
+letters to juliet,romeo + juliet,0.87332344
+black rain,brother,0.8939842
+glory road,when the game stands tall,0.8542315
+sicario,once upon a time in mexico,0.88125265
+southpaw,rocky balboa,0.8555167
+the age of adaline,straw dogs,0.8576731
+step up 3d,take the lead,0.871125
+30 days of night,vampires,0.8614978
+the cabin in the woods,book of shadows: blair witch 2,0.86000335
+meet the spartans,disaster movie,0.8716182
+larry crowne,gridiron gang,0.87056434
+carrie,my super ex-girlfriend,0.8734759
+take the lead,center stage,0.8715003
+9,nine dead,0.8776784
+winnie the pooh,pooh's heffalump movie,0.87763196
+dumb and dumberer: when harry met lloyd,notes on a scandal,0.8501149
+deliver us from evil,lost souls,0.8550942
+the five-year engagement,tom jones,0.8705777
+assault on precinct 13,lucky number slevin,0.86219
+the replacement killers,친절한 금자씨,0.8866523
+fled,a low down dirty shame,0.8532638
+eight legged freaks,pale rider,0.855855
+pride and glory,let's be cops,0.85277295
+fright night,dracula 2000,0.8540647
+in dreams,return to oz,0.871745
+the last stand,wah-wah,0.86004806
+godsend,the royal tenenbaums,0.8782382
+the imaginarium of doctor parnassus,dead man down,0.8593032
+once upon a time in america,blood ties,0.85363966
+dead man down,safe haven,0.85631216
+supercross,final destination 3,0.85044014
+doa: dead or alive,never back down,0.8543378
+the assassination of jesse james by the coward robert ford,blackthorn,0.85585284
+辛亥革命,the last emperor,0.8654559
+le petit nicolas,this is where i leave you,0.8558509
+wild card,existenz,0.867489
+goodbye bafana,winnie mandela,0.8654076
+united passions,the game of their lives,0.8728165
+confessions of a dangerous mind,the kentucky fried movie,0.86048746
+the boss,punch-drunk love,0.85258394
+the jacket,the giver,0.86123836
+indiana jones and the temple of doom,raiders of the lost ark,0.85905284
+the rugrats movie,trees lounge,0.8639863
+along came a spider,kiss the girls,0.8881531
+the big short,money monster,0.85613596
+taking woodstock,woodstock,0.85168386
+miracle,"mystery, alaska",0.85422194
+キャプテンハーロック,star trek iii: the search for spock,0.8613951
+the royal tenenbaums,divine secrets of the ya-ya sisterhood,0.8560226
+last vegas,where the truth lies,0.85208046
+timecop,project almanac,0.86207646
+hocus pocus,ハウルの動く城,0.8593576
+30 minutes or less,spring breakers,0.8525313
+we own the night,derailed,0.85499907
+lost souls,the last exorcism,0.8577294
+just my luck,new year's eve,0.85659087
+"mystery, alaska",into the wild,0.85045815
+our brand is crisis,the face of an angel,0.8727998
+kick-ass 2,return of the living dead 3,0.8607342
+octopussy,you only live twice,0.8709632
+knocked up,a madea christmas,0.8583385
+a passage to india,the woman in black,0.86270326
+notes on a scandal,the best of me,0.87029827
+rendition,lockout,0.86307645
+kiss the girls,swimming pool,0.85257244
+the sisterhood of the traveling pants 2,the sisterhood of the traveling pants,0.8969926
+anonymous,the man who knew too little,0.8520101
+dark city,i heart huckabees,0.86500096
+case 39,the exorcism of emily rose,0.8603806
+the statement,bon voyage,0.8711939
+the magic flute,the grudge 2,0.8585896
+the 40 year old virgin,the 41–year–old virgin who knocked up sarah marshall and felt superbad about it,0.8587884
+a walk among the tombstones,don't be afraid of the dark,0.8515285
+pineapple express,a scanner darkly,0.8597337
+open range,ready to rumble,0.85648024
+flatliners,pathology,0.8550389
+in good company,american beauty,0.8503927
+silverado,the killer inside me,0.85887736
+original sin,self/less,0.8597315
+the raven,my soul to take,0.8571351
+highlander iii: the sorcerer,mortal kombat,0.85081375
+accidental love,my blueberry nights,0.86515564
+rain man,eurotrip,0.86064017
+w.,the men who stare at goats,0.85847056
+the bodyguard,jeepers creepers 2,0.8506772
+cloverfield,reign over me,0.8562022
+bridget jones's diary,no strings attached,0.8516649
+the omen,the beastmaster,0.8540814
+final destination 3,final destination,0.8507064
+finding neverland,return to never land,0.87207896
+hide and seek,urbania,0.8579837
+goodfellas,things to do in denver when you're dead,0.8606825
+contraband,the counselor,0.85824645
+the wild thornberrys movie,august: osage county,0.8522769
+beauty shop,the women,0.8598448
+million dollar arm,summer catch,0.8553977
+mr. bean's holiday,entre les murs,0.85187423
+elizabeth,un plan parfait,0.8601636
+spice world,wild things,0.8513482
+dance flick,"tango, no me dejes nunca",0.8524351
+crocodile dundee in los angeles,crocodile dundee,0.89820015
+don juan demarco,much ado about nothing,0.85813797
+half past dead,king's ransom,0.89520997
+unaccompanied minors,black nativity,0.85518384
+"bright lights, big city",aberdeen,0.874925
+the adventures of pinocchio,being john malkovich,0.8553995
+the greatest game ever played,bobby jones: stroke of genius,0.86785746
+the ruins,darkness,0.8555576
+my soul to take,shark night,0.8519292
+lords of dogtown,chasing mavericks,0.85523856
+michael collins,becoming jane,0.8509909
+abandon,ask me anything,0.902161
+the possession,child's play,0.85627884
+straw dogs,carnage,0.86833364
+stone cold,mad max,0.8577932
+say it isn't so,win a date with tad hamilton!,0.8535392
+blindness,footloose,0.8624983
+love ranch,think like a man too,0.8534705
+the counselor,philadelphia,0.85472006
+red sky,machete kills,0.8640057
+on the road,endless love,0.8532366
+star trek iv: the voyage home,star trek ii: the wrath of khan,0.8517457
+rocky balboa,play it to the bone,0.86283004
+return to me,miss march,0.8512939
+nurse betty,i want someone to eat cheese with,0.8571846
+the men who stare at goats,the deer hunter,0.853576
+ready to rumble,the naked gun 2½: the smell of fear,0.8552656
+play it to the bone,fear and loathing in las vegas,0.85335875
+ハウルの動く城,georgia rule,0.8540659
+the waterboy,the great debaters,0.8559081
+the empire strikes back,spaceballs,0.8548178
+bad boys,brazil,0.8650852
+someone like you...,"paris, je t'aime",0.8567342
+joy ride,one direction: this is us,0.8515206
+jaws: the revenge,jaws 2,0.8790797
+marvin's room,moonlight mile,0.8692504
+in the valley of elah,i am wrath,0.8770125
+chéri,l'auberge espagnole,0.8523191
+1408,grave encounters,0.8612065
+spaceballs,star wars,0.8602412
+ghost,the glass house,0.8543986
+the bridges of madison county,tammy,0.86526406
+gandhi,"gandhi, my father",0.8643642
+the hundred-foot journey,here on earth,0.857965
+son of god,diary of a wimpy kid: dog days,0.8548977
+underworld,daybreakers,0.85619867
+deuce bigalow: european gigolo,deuce bigalow: male gigolo,0.8568418
+diary of a wimpy kid: dog days,freedom writers,0.8712055
+josie and the pussycats,the last song,0.8571763
+the little vampire,the lost boys,0.8685068
+the transporter refueled,the transporter,0.85756785
+hit & run,crocodile dundee ii,0.85205483
+mad money,small time crooks,0.867521
+before i go to sleep,death at a funeral,0.85136616
+molière,keeping up with the steins,0.85206014
+out of the furnace,let's go to prison,0.85585105
+death at a funeral,swing vote,0.86316997
+hardball,rounders,0.8647479
+for colored girls,the incredibly true adventure of two girls in love,0.86332655
+never back down,code name: the cleaner,0.8657497
+molly,the haunting of molly hartley,0.85172725
+the best little whorehouse in texas,appaloosa,0.8926734
+existenz,to die for,0.8599459
+home alone 2: lost in new york,bad santa,0.8502501
+close encounters of the third kind,edward scissorhands,0.85751045
+pulse,videodrome,0.85116404
+beverly hills cop ii,beverly hills cop,0.8553766
+bringing down the house,bound,0.8549712
+wayne's world,date movie,0.8539382
+jaws 2,jaws,0.89407563
+the conjuring,premonition,0.8501507
+are we there yet?,bullets over broadway,0.8628818
+holes,doug's 1st movie,0.85861135
+drumline,the rocker,0.882765
+why did i get married too?,babel,0.8815948
+madea's witness protection,capitalism: a love story,0.8577288
+selma,love me tender,0.8523028
+the jungle book 2,wrong turn,0.85002786
+premonition,orphan,0.8512502
+orphan,everyone says i love you,0.856699
+max,the kite runner,0.8720389
+the grudge 2,the grudge,0.88456655
+how stella got her groove back,celeste & jesse forever,0.85111463
+the american,the shining,0.85997105
+vampires suck,let me in,0.8528171
+this is where i leave you,the hills have eyes,0.8532333
+doubt,the craft,0.85024023
+texas chainsaw 3d,small apartments,0.851503
+scary movie 5,silent hill: revelation 3d,0.860962
+paint your wagon,the claim,0.87048656
+risen,the robe,0.8739016
+wild things,the stepfather,0.85569596
+one missed call,the greatest story ever told,0.86102885
+the world's end,the covenant,0.85070866
+nancy drew,foolish,0.85015464
+monte carlo,le bonheur d'elza,0.85071576
+appaloosa,secret in their eyes,0.8611936
+my best friend's girl,fight to the finish,0.85882187
+georgia rule,home for the holidays,0.8519072
+into the wild,lottery ticket,0.85182935
+school for scoundrels,loser,0.852344
+from dusk till dawn,"dude, where’s my car?",0.85448176
+home for the holidays,bad teacher,0.8591607
+功夫,kung pow: enter the fist,0.8568474
+paparazzi,the weather man,0.8561261
+the greatest story ever told,envy,0.89335555
+disaster movie,the hotel new hampshire,0.8743811
+crank: high voltage,crank,0.8519271
+bullets over broadway,enter the void,0.85055923
+the quiet american,blood done sign my name,0.8600795
+let me in,scream,0.85870904
+3 ninjas kick back,letters from iwo jima,0.8541163
+deconstructing harry,el secreto de sus ojos,0.8547508
+we're no angels,mercy streets,0.86763465
+everyone says i love you,bandslam,0.8647933
+death sentence,white noise 2: the light,0.8520755
+everybody's fine,robot & frank,0.8524138
+the man,about last night,0.85053396
+code name: the cleaner,confidence,0.85695684
+sweet charity,all or nothing,0.85528773
+inherent vice,peggy sue got married,0.8518188
+doogal,the cold light of day,0.85148275
+an american carol,love the coopers,0.85290486
+willard,escape from tomorrow,0.8613898
+strange wilderness,love in the time of monsters,0.87298465
+a scanner darkly,equilibrium,0.8714287
+chasing mavericks,the shallows,0.8569776
+bandslam,butterfly on a wheel,0.8758956
+birth,leap year,0.8588886
+a most violent year,all good things,0.88306403
+i'm not there.,the last waltz,0.8519764
+the cold light of day,can't stop the music,0.87211716
+"synecdoche, new york",nine 1/2 weeks,0.8539824
+bon voyage,der baader meinhof komplex,0.86378586
+marci x,janky promoters,0.8716253
+equilibrium,the informers,0.863596
+the oogieloves in the big balloon adventure,the blue bird,0.85166293
+by the sea,bienvenue chez les ch'tis,0.85762316
+all good things,people i know,0.86979824
+der baader meinhof komplex,der untergang,0.856426
+dances with wolves,major dundee,0.8519202
+sea of love,drowning mona,0.8506121
+scream,house on haunted hill,0.8628103
+the shining,diary of a wimpy kid: rodrick rules,0.8542852
+back to the future,little women,0.85611176
+house on haunted hill,tim and eric's billion dollar movie,0.8520243
+i can do bad all by myself,madea goes to jail,0.8678968
+the crazies,sex drive,0.86703837
+take me home tonight,"i love you, beth cooper",0.85108167
+the amityville horror,neighbors,0.8699292
+adaptation.,gentlemen broncos,0.87298876
+逃出生天,the divide,0.8623164
+neighbors,prom night,0.85350937
+the family stone,the object of my affection,0.8501724
+barbershop 2:  back in business,barbershop,0.8913954
+bad santa,and so it goes,0.8513963
+my big fat greek wedding 2,things we lost in the fire,0.85293466
+amadeus,"nannerl, la soeur de mozart",0.8667363
+mean girls,the best man,0.8544266
+under the tuscan sun,elsa & fred,0.8546674
+united 93,ararat,0.8712018
+the fog,grabbers,0.8641522
+love happens,edmond,0.8815468
+center stage,frances ha,0.87383187
+"i love you, beth cooper",loving annabelle,0.8535523
+and so it goes,troop beverly hills,0.88903964
+rocknrolla,a simple plan,0.853232
+anything else,head over heels,0.8765398
+the railway man,tycoon,0.8624246
+carlos,the east,0.86207134
+day of the dead,night of the living dead,0.88889503
+superbad,american pie,0.8617028
+madea goes to jail,slow burn,0.8563966
+step up 2: the streets,stomp the yard,0.8586716
+black nativity,the best man holiday,0.87546074
+the prince,the unborn,0.85806835
+i know what you did last summer,urban legend,0.8587844
+let's be cops,the son of no one,0.87371945
+halloween,halloween ii,0.8507694
+the best man holiday,sydney white,0.8649172
+saw 3d,saw vi,0.88042027
+beastly,world's greatest dad,0.8563993
+the hills have eyes,the lost skeleton of cadavra,0.85257983
+a simple plan,jeepers creepers,0.8655653
+larry the cable guy: health inspector,slither,0.85163856
+american dreamz,"guten tag, ramón",0.8505082
+bobby jones: stroke of genius,funny games,0.8620795
+shanghai surprise,三城记,0.85672057
+roar,you can count on me,0.8569856
+escobar: paradise lost,dawn patrol,0.8817678
+the apparition,paranormal activity 2,0.8504757
+my girl,twixt,0.8684239
+fur: an imaginary portrait of diane arbus,lost in translation,0.8533984
+road trip,valentine,0.85281754
+varsity blues,she's all that,0.8628085
+the artist,the guru,0.8547064
+the unborn,white oleander,0.8653722
+double impact,irréversible,0.86488014
+vicky cristina barcelona,mr. turner,0.85325474
+arn: tempelriddaren,history of the world: part i,0.8561319
+drowning mona,red riding: in the year of our lord 1974,0.85035425
+how to deal,superstar,0.85889316
+highlander,highlander: endgame,0.85156786
+things we lost in the fire,hachi: a dog's tale,0.8525115
+trance,deadfall,0.8531522
+bienvenue chez les ch'tis,wasabi,0.8536693
+good,die welle,0.9026112
+enter the void,25th hour,0.85012174
+vamps,vampire in brooklyn,0.8599309
+zulu,beastmaster 2: through the portal of time,0.8518697
+juwanna mann,just wright,0.8671818
+ararat,krampus,0.86525273
+slow burn,malibu's most wanted,0.862813
+home alone,time bandits,0.8705364
+the imitation game,mean machine,0.85567725
+private benjamin,coal miner's daughter,0.8544603
+mama,insidious: chapter 3,0.8530129
+jackass presents: bad grandpa,peeples,0.8522901
+the queen,the iron lady,0.85410845
+beetlejuice,praia do futuro,0.853087
+when a stranger calls,in the cut,0.85845757
+wag the dog,fahrenheit 9/11,0.85734665
+the lizzie mcguire movie,bananas,0.8509907
+the faculty,the emperor's club,0.8509235
+cop land,defendor,0.85525155
+not another teen movie,the in crowd,0.8629746
+end of watch,action jackson,0.8529003
+malibu's most wanted,the jerky boys,0.85212153
+wild,the dead girl,0.85479873
+halloween: resurrection,halloween 5: the revenge of michael myers,0.8947589
+the princess bride,11:14,0.8548801
+drive,drive hard,0.8625385
+confessions of a teenage drama queen,the broadway melody,0.8553938
+the object of my affection,boat trip,0.85289603
+28 weeks later,28 days later,0.8568153
+grosse pointe blank,shooting fish,0.85853285
+book of shadows: blair witch 2,st. vincent,0.8621477
+boogie nights,aroused,0.8504245
+nowhere to run,lone star,0.85059994
+the hills have eyes ii,invasion u.s.a.,0.8632695
+tuck everlasting,lol,0.859457
+the november man,the company,0.893674
+freddy got fingered,our family wedding,0.8511792
+idlewild,she done him wrong,0.85875934
+one day,16 to life,0.8546929
+whip it,dawn of the crescent moon,0.85031325
+the muse,trade of innocents,0.8500064
+de-lovely,house of d,0.8526472
+here on earth,an american haunting,0.85487175
+raise your voice,brave new girl,0.8515878
+black snake moan,blood and chocolate,0.8701541
+promised land,cedar rapids,0.86655194
+the in crowd,never let me go,0.8614175
+idle hands,paranormal activity: the marked ones,0.85849506
+never let me go,stoker,0.8524345
+funny games,dead like me: life after death,0.86303353
+winnie mandela,fatal attraction,0.8966082
+magic mike xxl,magic mike,0.8738424
+unforgiven,green street hooligans: underground,0.8502357
+white fang,the station agent,0.8535776
+the iron lady,philomena,0.86616886
+poetic justice,for your consideration,0.85693985
+exorcist ii: the heretic,the exorcist,0.8631623
+dead man on campus,slackers,0.8635343
+tea with mussolini,four single fathers,0.85038835
+"new york, new york",crooklyn,0.85346186
+crooklyn,amour,0.85949117
+bobby,the wendell baker story,0.8854838
+head over heels,thirteen,0.85050637
+fun size,darkness falls,0.86126125
+little children,easy virtue,0.85943604
+gossip,can't hardly wait,0.8506116
+a walk on the moon,far from heaven,0.8731051
+caravans,the misfits,0.8590433
+mr. turner,big eyes,0.8510532
+the lucky ones,no end in sight,0.8679255
+flipped,"definitely, maybe",0.8686072
+seven psychopaths,save the last dance,0.85747534
+the godfather: part ii,the godfather,0.9102194
+a nightmare on elm street 4: the dream master,new nightmare,0.88773614
+"dude, where’s my car?",sleepover,0.8524518
+about last night,baby geniuses,0.8541742
+snow day,light it up,0.8658169
+baby geniuses,woo,0.863265
+the big hit,american hero,0.90868217
+harriet the spy,restless,0.85731685
+being john malkovich,saw iii,0.8511123
+letters from iwo jima,proud,0.85012114
+room,spider,0.8526021
+light it up,reno 911!: miami,0.8632843
+21 & over,dope,0.8606281
+"paris, je t'aime",down to you,0.85112286
+chloe,faithful,0.8822235
+faithful,womb,0.8524965
+find me guilty,skin trade,0.8502924
+excessive force,gli intoccabili,0.8538629
+infamous,brooklyn rules,0.8519326
+i love you phillip morris,krush groove,0.8682064
+the emperor's club,the history boys,0.85549575
+true romance,go,0.858948
+sorority row,black christmas,0.8973156
+the funeral,deuces wild,0.85105276
+solitary man,arbitrage,0.85655314
+casino jack,misconduct,0.8744801
+the exorcist,a haunted house 2,0.8530442
+american pie,project x,0.89262104
+beavis and butt-head do america,bamboozled,0.8577711
+time bandits,dysfunktional family,0.85134476
+project x,my baby's daddy,0.8567494
+quarantine,the oxford murders,0.85094684
+rounders,saint john of las vegas,0.9034986
+top five,young adult,0.8757248
+prophecy,the toxic avenger,0.8762317
+aquamarine,splash,0.85151887
+max keeble's big move,there goes my baby,0.85312456
+young adult,from justin to kelly,0.85183394
+crank,duma,0.8620291
+just wright,rachel getting married,0.8532204
+rachel getting married,black or white,0.85009086
+the postman always rings twice,in cold blood,0.8563499
+das boot,"20,000 leagues under the sea",0.8810003
+arbitrage,american psycho,0.8661566
+cadillac records,dave chappelle's block party,0.85309565
+screwed,darling companion,0.86299103
+fortress,witless protection,0.8549502
+celebrity,une femme mariée: suite de fragments d'un film tourné en 1964,0.8567061
+from justin to kelly,two lovers,0.8983365
+la grande bellezza,full frontal,0.8528478
+married life,the perfect match,0.8557919
+welcome to collinwood,housefull,0.85240716
+the life before her eyes,vera drake,0.8534149
+cypher,the cry of the owl,0.86027366
+10 days in a madhouse,romeo is bleeding,0.85014653
+まあだだよ,american desi,0.854378
+trash,jimmy and judy,0.85235584
+high school musical 3: senior year,high school musical 2,0.9138803
+the fighter,pulp fiction,0.85662174
+jackass number two,jackass: the movie,0.86947083
+drive hard,crash,0.8626403
+major league,the business of fancydancing,0.85041004
+a walk to remember,friday the 13th part iii,0.8565553
+dead man walking,the nun's story,0.8548585
+saw vi,saw v,0.9051022
+history of the world: part i,frailty,0.8512407
+the secret life of bees,lilja 4-ever,0.85371053
+raising cain,el orfanato,0.85552716
+brooklyn,annie hall,0.85121846
+inside llewyn davis,grace unplugged,0.8518581
+return to the blue lagoon,black rock,0.8504013
+कभी अलविदा ना कहना,monsoon wedding,0.85370845
+the last days on mars,capricorn one,0.865652
+2001: a space odyssey,the house of the devil,0.85422236
+in the land of women,the perfect man,0.8523085
+housefull,friday after next,0.85167176
+september dawn,meek's cutoff,0.8667644
+for greater glory - the true story of cristiada,death calls,0.87393075
+saw iii,saw iv,0.8776339
+the purge: election year,all superheroes must die,0.8523714
+she's all that,the duff,0.853413
+white noise,shutter,0.8576189
+madea's family reunion,and then came love,0.8510448
+the best exotic marigold hotel,the second best exotic marigold hotel,0.89992636
+mad max beyond thunderdome,logan's run,0.85269773
+the boy,sinister 2,0.87334895
+insidious: chapter 3,heavy metal,0.8880996
+nick and norah's infinite playlist,anderson's cross,0.8649946
+a low down dirty shame,killer joe,0.85094017
+employee of the month,blonde ambition,0.8998744
+sinister 2,mud,0.8587944
+invasion u.s.a.,igby goes down,0.8551433
+skyline,area 51,0.85130376
+kung pow: enter the fist,finishing the game,0.8703952
+wrong turn,"it's a mad, mad, mad, mad world",0.85212964
+reno 911!: miami,d.e.b.s.,0.8513992
+office space,the front page,0.86396587
+drop dead gorgeous,dreaming of joseph lees,0.8513542
+big eyes,addicted,0.8728924
+very bad things,what happens in vegas,0.8706155
+macgruber,malone,0.8529745
+seeking a friend for the end of the world,melancholia,0.87452567
+cedar rapids,they came together,0.85568875
+deuces wild,west side story,0.8864057
+run fatboy run,the four seasons,0.85068625
+heartbeeps,the house of mirth,0.8600731
+rescue dawn,in her line of fire,0.8508853
+danny collins,nowhere boy,0.87137043
+"jeff, who lives at home",while we're young,0.8753869
+romeo is bleeding,in too deep,0.8623401
+the house of mirth,peaceful warrior,0.866411
+malone,"good night, and good luck.",0.8532214
+bucky larson: born to be a star,cecil b. demented,0.8748227
+bamboozled,network,0.8590822
+sphinx,"an alan smithee film: burn, hollywood, burn",0.8539385
+while we're young,the brothers solomon,0.8586054
+the iceman,the joneses,0.85903037
+कृष,rang de basanti,0.8664587
+cecil b. demented,strangerland,0.85095567
+swept away,code 46,0.8502166
+world's greatest dad,fascination,0.8522795
+blood done sign my name,school daze,0.85129845
+elsa & fred,lisa picard is famous,0.85900015
+motherhood,hai marjawaan!,0.861185
+janky promoters,glee: the concert movie,0.8515894
+blonde ambition,trading places,0.8508338
+fifty dead men walking,the crying game,0.8539642
+nurse 3-d,harry brown,0.8660336
+you only live twice,from russia with love,0.8595303
+plastic,diamonds are forever,0.8628736
+amour,the art of getting by,0.853006
+"it's a mad, mad, mad, mad world",90 minutes in heaven,0.8810463
+gentlemen broncos,richard iii,0.86950755
+richard iii,henry v,0.8922171
+into the grizzly maze,limbo,0.8659334
+melancholia,the savages,0.8874996
+detention,we need to talk about kevin,0.8538258
+mine vaganti,festen,0.8500876
+the best man,breakin' all the rules,0.86806893
+harold & kumar go to white castle,crazy heart,0.8518216
+boiler room,criminal activities,0.8508824
+black christmas,house at the end of the street,0.85316133
+igby goes down,undiscovered,0.87757957
+due occhi diabolici,annabelle,0.85204154
+barbecue,50/50,0.8531162
+all or nothing,you kill me,0.85283524
+undiscovered,little miss sunshine,0.86418134
+veronika decides to die,the dark hours,0.85014176
+the lost boys,stake land,0.87715876
+the wind that shakes the barley,bloody sunday,0.86292154
+pulp fiction,the chumscrubber,0.8518119
+splash,fifty shades of black,0.8550134
+28 days later,antiviral,0.86278594
+50/50,anomalisa,0.8838004
+shutter,another year,0.8573679
+that awkward moment,a home at the end of the world,0.85028696
+new nightmare,a nightmare on elm street 5: the dream child,0.87145346
+american psycho,friends with money,0.8502902
+the boondock saints ii: all saints day,the boondock saints,0.89921594
+8 femmes,gone with the wind,0.85455036
+it's kind of a funny story,and when did you last see your father?,0.8509203
+made in dagenham,without men,0.8531686
+the wicked lady,diary of a mad black woman,0.85556334
+down in the valley,rodeo girl,0.8647316
+brooklyn rules,the singing detective,0.8620256
+the singing detective,masked and anonymous,0.8847686
+wild target,2:13,0.8557596
+aloft,a single man,0.8509991
+the death and life of bobby z,down terrace,0.8502696
+swimming pool,hostel: part ii,0.8592371
+soul food,soul kitchen,0.8500025
+hostel: part ii,hostel,0.85387206
+the work and the glory,the work and the glory ii: american zion,0.87361217
+code 46,the neon demon,0.8553507
+black november,fuel,0.8518661
+the neon demon,devil's due,0.87163526
+harry brown,desperado,0.850011
+diamonds are forever,live and let die,0.8553315
+magic mike,the players club,0.8510974
+live and let die,the man with the golden gun,0.8674022
+capote,do the right thing,0.85999614
+desperado,hodejegerne,0.8529865
+the man with the golden gun,goldfinger,0.85610825
+the descent,gerry,0.8601659
+devil's due,somewhere,0.8991399
+in too deep,dom hemingway,0.8524331
+house of 1000 corpses,oculus,0.86453694
+alien zone,bride & prejudice,0.8625617
+outside providence,the wackness,0.8508753
+losin' it,y tu mamá también,0.85126764
+somewhere,hesher,0.8872392
+chairman of the board,"surfer, dude",0.91485214
+the heart of me,goddess of love,0.85772157
+the boondock saints,chain of command,0.85194594
+high school musical 2,high school musical,0.92201084
+criminal activities,the virgin suicides,0.86161584
+shade,the words,0.8501409
+house at the end of the street,mallrats,0.8605678
+perrier’s bounty,tales from the hood,0.85596555
+dressed to kill,novocaine,0.86508375
+go,layer cake,0.86080474
+aberdeen,truth or dare,0.852195
+grease,forget me not,0.8609455
+platoon,brotherly love,0.85800165
+fahrenheit 9/11,nighthawks,0.8714708
+a nightmare on elm street 5: the dream child,a nightmare on elm street 3: dream warriors,0.9158497
+school daze,200 cigarettes,0.85551274
+daddy day camp,the way way back,0.8537955
+tales from the hood,made,0.8522639
+halloween 5: the revenge of michael myers,halloween: the curse of michael myers,0.9164212
+the words,obsluhoval jsem anglického krále,0.857879
+the virgin suicides,lake of fire,0.85519433
+miss march,atlas shrugged part iii: who is john galt?,0.8579965
+goddess of love,heavenly creatures,0.86243784
+novocaine,choke,0.8706657
+the first great train robbery,train,0.8568765
+morvern callar,scoop,0.8586465
+snow flower and the secret fan,saving face,0.9033359
+julia,the last exorcism part ii,0.8566928
+"surfer, dude",insidious: chapter 2,0.8575524
+lake of fire,khiladi 786,0.86887246
+don mckay,sunshine state,0.86229616
+deadfall,ghost world,0.85219604
+videodrome,don jon,0.860977
+song one,my last day without you,0.8527771
+freaky deaky,q,0.85523796
+trade of innocents,que horas ela volta?,0.85000193
+crossover,house party 2,0.85491496
+khiladi 786,standing ovation,0.8628608
+chariots of fire,elmer gantry,0.8601397
+shine,så som i himmelen,0.85971606
+high plains drifter,放‧逐,0.8642555
+ghost world,harvard man,0.86146533
+insidious: chapter 2,paranormal activity 3,0.8568371
+paranormal activity 3,ouija,0.8583559
+a nightmare on elm street 3: dream warriors,freddy's dead: the final nightmare,0.8998728
+no se aceptan devoluciones,monster,0.8601749
+freddy's dead: the final nightmare,a nightmare on elm street part 2: freddy's revenge,0.9254211
+paranormal activity: the marked ones,slums of beverly hills,0.8560459
+oculus,my big fat greek wedding,0.8797226
+the apostle,the texas chainsaw massacre 2,0.880983
+mommie dearest,the diary of a teenage girl,0.8502539
+"as above, so below",the wicked within,0.85078734
+nighthawks,standard operating procedure,0.8682982
+halloween: the curse of michael myers,halloween 4: the return of michael myers,0.87577593
+the haunting of molly hartley,pokémon 3: the movie,0.8643135
+solomon and sheba,ajami,0.85875344
+fifty shades of black,not easily broken,0.88045806
+not easily broken,rabbit hole,0.91498005
+the perfect match,purple violets,0.86194295
+uhf,talk radio,0.8516344
+grandma's boy,girlhouse,0.8535588
+made,only god forgives,0.85182995
+90 minutes in heaven,sinister,0.8630663
+everything must go,moms' night out,0.8575442
+light sleeper,the rules of attraction,0.85060555
+kill the messenger,antibirth,0.85605854
+rabbit hole,"lovely, still",0.8561326
+"gandhi, my father",water,0.8543322
+standard operating procedure,redacted,0.8536164
+tucker and dale vs evil,old joy,0.8587311
+"lovely, still",take shelter,0.85406625
+redacted,born of war,0.86244845
+fascination,not cool,0.852194
+rudderless,the night listener,0.8537293
+dying of the light,eden lake,0.85960674
+running forever,horse camp,0.8528015
+the awakening,subconscious,0.86569685
+hostel,3 backyards,0.8618675
+let's kill ward's wife,a dog's breakfast,0.853046
+only god forgives,the rise of the krays,0.869844
+25th hour,n-secure,0.85457194
+requiem for a dream,snabba cash,0.85638654
+"tango, no me dejes nunca",life during wartime,0.8789853
+salvando al soldado perez,el rey de najayo,0.85510814
+spun,fetching cody,0.86841065
+life during wartime,r.l. stine's monsterville: the cabinet of souls,0.8599471
+blackthorn,the timber,0.85184836
+after.life,the boy next door,0.86503536
+one flew over the cuckoo's nest,secretary,0.85326654
+falcon rising,fruitvale station,0.85010433
+snabba cash,close range,0.85257375
+night of the living dead,maggie,0.8558492
+lost in translation,something wicked,0.8500052
+leaving las vegas,the lost weekend,0.8547677
+trapeze,the loss of sexual innocence,0.8664925
+a haunted house 2,frenzy,0.85510474
+topaz,awol-72,0.8519431
+four rooms,the innkeepers,0.8531871
+the real cancun,the jimmy show,0.8577165
+talk radio,joe,0.86645633
+love stinks,sex with strangers,0.86383855
+"guten tag, ramón",wal-mart: the high cost of low price,0.8561584
+nothing,garden state,0.88986576
+gone with the wind,casa de areia,0.86151165
+major dundee,"il buono, il brutto, il cattivo",0.85348755
+friday,martin lawrence live: runteldat,0.87583053
+in cold blood,reservoir dogs,0.8516514
+harper,frozen river,0.8513266
+train,before midnight,0.8566686
+evil dead ii,the evil dead,0.87122816
+trolljegeren,the man who shot liberty valance,0.8509532
+winter passing,chasing amy,0.85642457
+the betrayed,redemption road,0.8536931
+"batman: the dark knight returns, part 2",the toxic avenger part ii,0.8635776
+time to choose,unnatural,0.85594696
+lords of london,ghost dog: the way of the samurai,0.85770917
+margin call,this thing of ours,0.85954076
+the dead girl,jagten,0.8517061
+class of 1984,river's edge,0.85073227
+entre les murs,central do brasil,0.85995376
+rosemary's baby,adam,0.86456263
+adam,beginners,0.85474735
+"maría, llena eres de gracia",jesus' son,0.85775614
+animal house,walter,0.85215175
+goldfinger,shalako,0.8732591
+归来,amnesiac,0.85611033
+a nightmare on elm street part 2: freddy's revenge,the horse boy,0.8628477
+sinister,family plot,0.86085737
+martin lawrence live: runteldat,letters to god,0.85072374
+friday the 13th part vi: jason lives,friday the 13th: the final chapter,0.8961849
+family plot,疯狂的赛车,0.85151815
+slow west,fish tank,0.851811
+elmer gantry,happiness,0.86396843
+before midnight,before sunrise,0.85224104
+phantasm ii,swingers,0.85839194
+days of heaven,the valley of decision,0.8678915
+basquiat,me and you and everyone we know,0.85221726
+frances ha,एबीसीडी,0.9079713
+fish tank,chicago overcoat,0.8504078
+bachelorette,boynton beach club,0.85070366
+brave new girl,there's always woodstock,0.8571746
+just looking,kids,0.87705356
+the divide,[rec],0.8736239
+demonic,thr3e,0.86067164
+the deported,il conformista,0.86429954
+tanner hall,the spectacular now,0.85014194
+open road,30 nights of paranormal activity with the devil inside the girl with the dragon tattoo,0.8690634
+barry munday,maurice,0.8510429
+close range,no man's land: the rise of reeker,0.85232687
+amnesiac,the lady from shanghai,0.860807
+freakonomics,diary of the dead,0.866399
+unnatural,an inconvenient truth,0.86263907
+diary of the dead,a haunted house,0.8852072
+a guy named joe,good kill,0.874704
+beer league,obvious child,0.8523561
+timber falls,hatchet,0.85284764
+kevin hart: let me explain,fantasia,0.8568234
+before sunrise,before sunset,0.8772404
+saving face,higher ground,0.8637156
+religulous,jack brooks: monster slayer,0.8513457
+8: the mormon proposition,the singles ward,0.8502805
+the other end of the line,safety not guaranteed,0.8514615
+the rise of the krays,24 7: twenty four seven,0.8516103
+redemption road,the last sin eater,0.8531818
+mi america,dead man's shoes,0.8554701
+[rec],containment,0.8818477
+from russia with love,dr. no,0.8829346
+everything you always wanted to know about sex *but were afraid to ask,american splendor,0.85071737
+courageous,cavite,0.8694232
+american splendor,gentleman's agreement,0.9009691
+witchboard,insidious,0.85250264
+no end in sight,jagal,0.85349166
+teeth,die büchse der pandora,0.8504441
+saint john of las vegas,circle,0.8688075
+this thing of ours,deadline - u.s.a.,0.854237
+lesbian vampire killers,the dead undead,0.8533885
+nine dead,treachery,0.8518735
+bananas,ed and his dead mother,0.8560763
+walking with the dead,zombie hunter,0.8613218
+एबीसीडी,eddie: the sleepwalking cannibal,0.8618194
+brotherly love,batman,0.85449374
+the last exorcism,the horror network vol. 1,0.8500118
+a streetcar named desire,may,0.850702
+the greatest movie ever sold,the salon,0.8830265
+independence daysaster,repo man,0.8660048
+may,the to do list,0.8760345
+yes,adulterers,0.8564172
+grace unplugged,20 feet from stardom,0.8956834
+दिल जो भी कहे,guiana 1838,0.8786334
+waitress,"sex, lies, and videotape",0.860219
+insidious,mooz-lum,0.85464245
+the salon,the lords of salem,0.85201484
+forty shades of blue,rebecca,0.8584984
+fetching cody,on the outs,0.8773417
+vượt sóng,lonesome jim,0.8606976
+eddie: the sleepwalking cannibal,da sweet blood of jesus,0.86406213
+kurmanjan datka. queen of the mountains,دایره,0.8500035
+the 41–year–old virgin who knocked up sarah marshall and felt superbad about it,but i'm a cheerleader,0.85292816
+friday the 13th part 2,"run, hide, die",0.85490346
+you can count on me,blue like jazz,0.8680645
+the trouble with harry,baghead,0.86449957
+down & out with the dolls,next stop wonderland,0.85788965
+the wicked within,bleeding hearts,0.85919887
+the vatican exorcisms,the devil inside,0.87837404
+tom jones,november,0.8833796
+taxi driver,taxi to the dark side,0.8532786
+god's not dead 2,undivided,0.8666887
+cry_wolf,october baby,0.85248816
+blue valentine,conversations with other women,0.85159194
+an inconvenient truth,a lego brickumentary,0.86078775
+the skeleton twins,tin can man,0.8530595
+obvious child,two girls and a guy,0.89202094
+20 feet from stardom,hits,0.8564426
+two girls and a guy,the perfect host,0.8764578
+all the real girls,alone with her,0.8566412
+blue car,funny ha ha,0.8549194
+jagal,the party's over,0.85413325
+antarctica: a year on ice,tarnation,0.852102
+a lego brickumentary,the helix... loaded,0.8621168
+16 to life,the poker house,0.8606549
+special,fear clinic,0.87462723
+the helix... loaded,bambi,0.85339284
+the jimmy show,kevin hart: laugh at my pain,0.86136377
+jimmy and judy,hard candy,0.8566016
+the party's over,circumstance,0.8519189
+the poker house,snow white: a deadly summer,0.8657998
+truth or dare,mutual friends,0.86108875
+bang bang baby,johnny suede,0.8522798
+fear clinic,some guy who kills people,0.8507087
+ask me anything,"for a good time, call...",0.8620507
+and then came love,"first love, last rites",0.8531474
+bambi,welcome to the dollhouse,0.8580517
+latter days,rust,0.8572153
+welcome to the dollhouse,harrison montgomery,0.8587438
+die büchse der pandora,the sisterhood of night,0.8578152
+cama adentro,the maid's room,0.8596326
+safety not guaranteed,kill list,0.8661989
+il conformista,napoleon dynamite,0.8500172
+mercy streets,benji,0.8559587
+arnolds park,the gallows,0.8501463
+light from the darkroom,drinking buddies,0.854512
+love letters,the canyons,0.85674006
+julija in alfa romeo,breaking upwards,0.85252416
+kingdom of the spiders,give me shelter,0.852195
+johnny suede,scott walker: 30 century man,0.9085076
+the slaughter rule,sound of my voice,0.8550099
+detention of the dead,girls gone dead,0.8551108
+the sound and the shadow,intolerance,0.8503761
+42nd street,midnight cabaret,0.8794813
+american ninja 2: the confrontation,royal kill,0.85533655
+my dog tulip,this is martin bonner,0.86181283
+3 backyards,lovely & amazing,0.8894954
+sisters in law,dry spell,0.8541253
+fighting tommy riley,facing the giants,0.8689226
+death calls,better luck tomorrow,0.8643009
+better luck tomorrow,amidst the devil's wings,0.85019195
+the incredibly true adventure of two girls in love,love and other catastrophes,0.87889475
+amidst the devil's wings,newlyweds,0.85165155
+the canyons,exam,0.85006976
+on the outs,dutch kills,0.8582408
+the sticky fingers of time,archaeology of a woman,0.88406205
+along the roadside,another earth,0.86429596
+swingers,an american in hollywood,0.8607054
+she done him wrong,in the company of men,0.85236955
+the business of fancydancing,tiger orange,0.85910404
+super hybrid,primer,0.87232894
+she's gotta have it,"i love you, don't touch me!",0.8624526
+the gallows,cheap thrills,0.8517907
+eraserhead,happy christmas,0.85054994
+cheap thrills,open secret,0.8692917
+echo dr.,george washington,0.8500562
+tiger orange,supporting characters,0.8677626
+supporting characters,the dirties,0.8677571
+george washington,raymond did it,0.8538364
+funny ha ha,sanctuary: quite a conundrum,0.8553865

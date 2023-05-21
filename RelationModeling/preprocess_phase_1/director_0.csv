@@ -1,0 +1,402 @@
+title,director_name,movie_id
+titanic,James Cameron,313
+alice in wonderland,Tim Burton,420
+waterworld,Kevin Reynolds,554
+batman & robin,Joel Schumacher,254
+dante's peak,Roger Donaldson,323
+tomorrow never dies,Roger Spottiswoode,751
+speed 2: cruise control,Jan de Bont,1089
+around the world in 80 days,Frank Coraci,495
+terminator 2: judgment day,James Cameron,96
+true lies,James Cameron,385
+eraser,Chuck Russell,597
+batman forever,Joel Schumacher,29
+starship troopers,Paul Verhoeven,271
+hercules,Brett Ratner,993
+cinderella,Kenneth Branagh,418
+cutthroat island,Renny Harlin,1239
+men in black,Barry Sonnenfeld,257
+die hard: with a vengeance,John McTiernan,550
+ben-hur,Timur Bekmambetov,526
+contact,Robert Zemeckis,258
+volcano,Mick Jackson,678
+conan the barbarian,John Milius,679
+twister,Jan de Bont,118
+air force one,Wolfgang Petersen,300
+open season,Jill Culton,1321
+last action hero,John McTiernan,391
+mission: impossible,Brian De Palma,405
+batman returns,Tim Burton,231
+face/off,John Woo,298
+con air,Simon West,1016
+flubber,Les Mayfield,892
+space jam,Joe Pytka,820
+conspiracy theory,Richard Donner,328
+lost in space,Stephen Hopkins,916
+mars attacks!,Tim Burton,235
+daylight,Rob Cohen,827
+independence day,Roland Emmerich,121
+first knight,Jerry Zucker,720
+sphere,Barry Levinson,355
+braveheart,Mel Gibson,22
+ransom,Ron Howard,742
+die hard 2,Renny Harlin,226
+wolf,Mike Nichols,569
+seven years in tibet,Jean-Jacques Annaud,690
+bad company,Joel Schumacher,798
+hard rain,Mikael Salomon,349
+money train,Joseph Ruben,540
+apollo 13,Ron Howard,28
+cliffhanger,Renny Harlin,576
+broken arrow,John Woo,546
+primary colors,Mike Nichols,915
+everest,Baltasar Kormákur,1594
+jurassic park,Steven Spielberg,82
+wyatt earp,Lawrence Kasdan,570
+clear and present danger,Phillip Noyce,566
+goldeneye,Martin Campbell,2
+days of thunder,Tony Scott,849
+jingle all the way,Brian Levant,862
+up close & personal,Jon Avnet,151
+under siege 2: dark territory,Geoff Murphy,1228
+alien: resurrection,Jean-Pierre Jeunet,343
+mercury rising,Harold Becker,917
+priest,Scott Stewart,57
+event horizon,Paul W.S. Anderson,260
+dragonheart,Rob Cohen,472
+forrest gump,Robert Zemeckis,69
+pocahontas,Mike Gabriel,542
+george of the jungle,Sam Weisman,259
+casper,Brad Silberling,768
+crimson tide,Tony Scott,31
+disclosure,Barry Levinson,43
+city of angels,Brad Silberling,918
+executive decision,Stuart Baird,685
+evita,Alan Parker,289
+chain reaction,Andrew Davis,930
+turbulence,Robert Butler,986
+anastasia,Gary Goldman,538
+casino,Martin Scorsese,693
+robin hood: prince of thieves,Kevin Reynolds,627
+jerry maguire,Cameron Crowe,237
+as good as it gets,James L. Brooks,316
+interview with the vampire,Neil Jordan,559
+congo,Frank Marshall,769
+outbreak,Wolfgang Petersen,54
+absolute power,Clint Eastwood,291
+g.i. jane,Ridley Scott,326
+beverly hills cop iii,John Landis,388
+striptease,Andrew Bergman,120
+assassins,Richard Donner,1217
+escape from l.a.,John Carpenter,831
+man of the house,Stephen Herek,1179
+mad city,Costa-Gavras,339
+fair game,Doug Liman,759
+jade,William Friedkin,1207
+indiana jones and the last crusade,Steven Spielberg,210
+anna karenina,Joe Wright,990
+mary reilly,Stephen Frears,370
+my best friend's wedding,P.J. Hogan,255
+star trek: first contact,Jonathan Frakes,222
+courage under fire,Edward Zwick,471
+liar liar,Tom Shadyac,294
+anaconda,Luis Llosa,1013
+tin cup,Ron Shelton,284
+kicking & screaming,Jesse Dylan,695
+multiplicity,Harold Ramis,1047
+nixon,Oliver Stone,458
+deep rising,Stephen Sommers,353
+shadow conspiracy,George P. Cosmatos,984
+sleepers,Barry Levinson,628
+pinocchio,Ben Sharpsteen,404
+boomerang,Reginald Hudlin,765
+super mario bros.,Annabel Jankel,398
+shall we dance?,Peter Chelsom,251
+shall we dance?,Peter Chelsom,1286
+spawn,Mark A.Z. Dippé,358
+unknown,Jaume Collet-Serra,267
+amistad,Steven Spielberg,750
+ri¢hie ri¢h,Donald Petrie,795
+renaissance man,Penny Marshall,944
+city hall,Harold Becker,696
+showgirls,Paul Verhoeven,375
+kiss of death,Barbet Schroeder,1208
+hackers,Iain Softley,1139
+sgt. bilko,Jonathan Lynn,105
+star trek: generations,David Carson,380
+extreme measures,Michael Apted,619
+white squall,Ridley Scott,924
+switchback,Jeb Stuart,1038
+twilight,Catherine Hardwicke,911
+breakdown,Jonathan Mostow,295
+ghosts of mississippi,Rob Reiner,1136
+gattaca,Andrew Niccol,270
+batman,Leslie H. Martinson,403
+star trek: the motion picture,Robert Wise,449
+cape fear,Martin Scorsese,218
+cape fear,Martin Scorsese,673
+l.a. confidential,Curtis Hanson,302
+in & out,Frank Oz,301
+species,Roger Donaldson,552
+donnie brasco,Mike Newell,293
+street fighter,Steven E. de Souza,1413
+midnight in the garden of good and evil,Clint Eastwood,312
+warriors of virtue,Ronny Yu,1615
+smilla's sense of snow,Bille August,244
+safe,Boaz Yakin,1131
+return of the jedi,Richard Marquand,181
+phenomenon,Jon Turteltaub,125
+bogus,Norman Jewison,832
+cats don't dance,Mark Dindal,989
+apocalypse now,Francis Ford Coppola,180
+mr. holland's opus,Stephen Herek,15
+get shorty,Barry Sonnenfeld,4
+toy story,John Lasseter,1
+speed,Jan de Bont,568
+ace ventura: when nature calls,Steve Oedekerk,364
+se7en,David Fincher,11
+legends of the fall,Edward Zwick,51
+babe,Chris Noonan,8
+star trek v: the final frontier,William Shatner,450
+mortal kombat: annihilation,John R. Leonetti,890
+carrie,Kimberly Peirce,447
+virtuosity,Brett Leonard,1210
+fled,Kevin Hooks,829
+glory,Edward Zwick,651
+once upon a time in america,Sergio Leone,649
+aladdin,Ron Clements,95
+die hard,John McTiernan,144
+timecop,Peter Hyams,797
+blade runner,Ridley Scott,89
+rob roy,Michael Caton-Jones,549
+kundun,Martin Scorsese,900
+star trek vi: the undiscovered country,Nicholas Meyer,227
+kiss the girls,Gary Fleder,332
+dark city,Alex Proyas,691
+highlander iii: the sorcerer,Andrew Morahan,1419
+blood and wine,Bob Rafelson,985
+flipper,Alan Shapiro,112
+mrs. doubtfire,Chris Columbus,393
+schindler's list,Steven Spielberg,318
+tombstone,George P. Cosmatos,470
+goodfellas,Martin Scorsese,182
+nothing to lose,Steve Oedekerk,1264
+money talks,Brett Ratner,876
+money talks,Brett Ratner,881
+spice world,Bob Spiers,352
+kingpin,Bobby Farrelly,410
+don juan demarco,Jeremy Leven,778
+maximum risk,Ringo Lam,982
+michael collins,Neil Jordan,744
+mrs. winterbourne,Richard Benjamin,821
+tank girl,Rachel Talalay,1110
+star trek iv: the voyage home,Leonard Nimoy,230
+scream 2,Wes Craven,895
+bad boys,Michael Bay,27
+marvin's room,Jerry Zaks,287
+ghost,Jerry Zucker,402
+gandhi,Richard Attenborough,527
+underworld,Len Wiseman,987
+shadowlands,Richard Attenborough,736
+robocop 3,Fred Dekker,1274
+my fellow americans,Peter Segal,864
+raiders of the lost ark,Steven Spielberg,174
+jaws 2,Jeannot Szwarc,452
+mortal kombat,Paul W.S. Anderson,541
+man of the year,Barry Levinson,766
+selena,Gregory Nava,1278
+copycat,Jon Amiel,5
+wild things,John McNaughton,914
+eye for an eye,John Schlesinger,974
+to die for,Gus Van Sant,715
+psycho,Alfred Hitchcock,185
+from dusk till dawn,Robert Rodriguez,17
+home for the holidays,Jodie Foster,716
+bullets over broadway,Woody Allen,792
+deconstructing harry,Woody Allen,345
+everyone says i love you,Woody Allen,319
+dances with wolves,Kevin Costner,97
+scream,Wes Craven,288
+back to the future,Robert Zemeckis,204
+kansas city,Robert Altman,130
+star trek iii: the search for spock,Leonard Nimoy,229
+austin powers: international man of mystery,Jay Roach,249
+amadeus,Miloš Forman,191
+spy hard,Rick Friedberg,407
+raging bull,Martin Scorsese,192
+ed wood,Tim Burton,47
+hamlet,Kenneth Branagh,1039
+restoration,Zack Ward,277
+aliens,James Cameron,176
+my fair lady,George Cukor,485
+i know what you did last summer,Jim Gillespie,682
+american dreamz,Paul Weitz,1585
+sense and sensibility,Ang Lee,275
+dead poets society,Peter Weir,196
+when harry met sally...,Rob Reiner,216
+philadelphia,Jonathan Demme,735
+highlander,Russell Mulcahy,431
+steel,Kenneth Johnson,263
+home alone,Chris Columbus,94
+top gun,Tony Scott,161
+private benjamin,Howard Zieff,167
+little women,Gillian Armstrong,699
+wag the dog,Barry Levinson,347
+what's love got to do with it,Brian Gibson,942
+cop land,James Mangold,327
+lawrence of arabia,David Lean,511
+grosse pointe blank,George Armitage,248
+boogie nights,Paul Thomas Anderson,340
+brazil,Terry Gilliam,175
+things to do in denver when you're dead,Gary Fleder,544
+groundhog day,Harold Ramis,202
+unforgiven,Clint Eastwood,203
+pretty woman,Garry Marshall,739
+cool runnings,Jon Turteltaub,1035
+poetic justice,John Singleton,807
+vampire in brooklyn,Wes Craven,545
+thinner,Tom Holland,406
+crooklyn,Spike Lee,793
+jefferson in paris,James Ivory,1530
+clueless,Amy Heckerling,367
+young guns,Christopher Cain,232
+harriet the spy,Bronwen Hughes,929
+serial mom,John Waters,396
+faithful,Paul Mazursky,1114
+true romance,Tony Scott,92
+glengarry glen ross,James Foley,160
+cat people,Paul Schrader,674
+oscar and lucinda,Gillian Armstrong,906
+jaws,Steven Spielberg,234
+ace ventura: pet detective,Tom Shadyac,67
+witness,Peter Weir,1526
+beavis and butt-head do america,Mike Judge,240
+jackie brown,Quentin Tarantino,346
+patton,Franklin J. Schaffner,205
+how to be a player,Lionel C. Martin,335
+girl 6,Spike Lee,818
+critical care,Sidney Lumet,341
+star wars,George Lucas,50
+dead man walking,Tim Robbins,9
+army of darkness,Sam Raimi,184
+what's eating gilbert grape,Lasse Hallström,65
+2001: a space odyssey,Stanley Kubrick,135
+e.t. the extra-terrestrial,Steven Spielberg,423
+good will hunting,Gus Van Sant,272
+stripes,Ivan Reitman,1301
+happy gilmore,Dennis Dugan,763
+pete's dragon,David Lowery,1091
+love jones,Theodore Witcher,872
+sleepover,Joe Nussbaum,1460
+romeo is bleeding,Peter Medak,583
+crash,Paul Haggis,325
+heavy metal,Gerald Potterton,101
+richard iii,Richard Loncraine,10
+alien,Ridley Scott,183
+set it off,F. Gary Gray,1277
+henry v,Kenneth Branagh,190
+barbarella,Roger Vadim,1411
+pulp fiction,Quentin Tarantino,56
+stand by me,Rob Reiner,655
+much ado about nothing,Kenneth Branagh,83
+half baked,Tamra Davis,908
+prefontaine,Steve James,1189
+soul food,"George Tillman, Jr.",880
+desperado,Robert Rodriguez,33
+flirting with disaster,David O. Russell,1098
+chairman of the board,Alex Zamm,1234
+chairman of the board,Alex Zamm,1654
+dazed and confused,Richard Linklater,959
+mallrats,Kevin Smith,721
+grease,Randal Kleiser,451
+platoon,Oliver Stone,157
+butch cassidy and the sundance kid,George Roy Hill,435
+mary poppins,Robert Stevenson,419
+escape from new york,John Carpenter,636
+sliding doors,Peter Howitt,1429
+sliding doors,Peter Howitt,1680
+tales from the hood,Rusty Cundieff,564
+emma,Jim O'Hanlon,283
+shine,Scott Hicks,531
+wonderland,James Cox,360
+somewhere in time,Jeannot Szwarc,662
+"20,000 leagues under the sea",Richard Fleischer,141
+eve's bayou,Kasi Lemmons,887
+halloween: the curse of michael myers,Joe Chappelle,834
+lone star,John Sayles,124
+april fool's day,Fred Walton,859
+no escape,John Erick Dowdle,1416
+heavenly creatures,Peter Jackson,558
+bottle rocket,Wes Anderson,1067
+albino alligator,Kevin Spacey,1083
+sling blade,Billy Bob Thornton,223
+four weddings and a funeral,Mike Newell,70
+bound,Lilly Wachowski,129
+one flew over the cuckoo's nest,Miloš Forman,357
+love and death on long island,Richard Kwietniowski,913
+night of the living dead,George A. Romero,616
+annie hall,Woody Allen,514
+leaving las vegas,Mike Figgis,276
+four rooms,Allison Anders,3
+waiting for guffman,Christopher Guest,1007
+shooting fish,Stefan Schwartz,1434
+trust,David Schwimmer,1103
+gone with the wind,Victor Fleming,133
+friday,F. Gary Gray,1218
+menace ii society,Albert Hughes,806
+she's the one,Edward Burns,1048
+evil dead ii,Sam Raimi,201
+august,Eldar Rapaport,1325
+it's a wonderful life,Frank Capra,496
+trainspotting,Danny Boyle,475
+cat on a hot tin roof,Richard Brooks,499
+air bud,Charles Martin Smith,261
+kama sutra - a tale of love,Mira Nair,532
+willy wonka & the chocolate factory,Mel Stuart,280
+8 heads in a duffel bag,Tom Schulman,1664
+basquiat,Julian Schnabel,1010
+freeway,Matthew Bright,844
+some like it hot,Billy Wilder,482
+young frankenstein,Mel Brooks,208
+ulee's gold,Victor Nunez,297
+ulee's gold,Victor Nunez,303
+singin' in the rain,Stanley Donen,705
+that thing you do!,Tom Hanks,845
+my own private idaho,Gus Van Sant,537
+before sunrise,Richard Linklater,955
+get on the bus,Spike Lee,1134
+fantasia,David Hand,432
+sleeper,Woody Allen,152
+to kill a mockingbird,Robert Mulligan,427
+stonewall,Roland Emmerich,1396
+bananas,Woody Allen,502
+dr. strangelove or: how i learned to stop worrying and love the bomb,Stanley Kubrick,474
+mr. smith goes to washington,Frank Capra,136
+kids,Larry Clark,772
+spellbound,Alfred Hitchcock,608
+exotica,Atom Egoyan,46
+killing zoe,Roger Avary,943
+snow white and the seven dwarfs,David Hand,99
+trees lounge,Steve Buscemi,1017
+rebecca,Alfred Hitchcock,607
+"sex, lies, and videotape",Steven Soderbergh,708
+reservoir dogs,Quentin Tarantino,156
+casablanca,Michael Curtiz,483
+taxi driver,Martin Scorsese,23
+walking and talking,Nicole Holofcener,1262
+welcome to the dollhouse,Todd Solondz,93
+ruby in paradise,Victor Nunez,962
+high noon,Fred Zinnemann,661
+hoop dreams,Steve James,48
+top hat,Mark Sandrich,1203
+hurricane streets,Morgan J. Freeman,1395
+hurricane streets,Morgan J. Freeman,1607
+monty python and the holy grail,Terry Gilliam,168
+12 angry men,Sidney Lumet,178
+it happened one night,Frank Capra,604
+chasing amy,Kevin Smith,246
+chasing amy,Kevin Smith,268
+love and other catastrophes,Emma-Kate Croghan,1379
+swingers,Doug Liman,150
+clerks,Kevin Smith,42
+in the company of men,Neil LaBute,262
